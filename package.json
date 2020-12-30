@@ -1,0 +1,28 @@
+{
+  "name": "iCal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx -n '--experimental-vm-modules --no-warnings' jest --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lammerRoma/iCal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lammerRoma/iCal/issues"
+  },
+  "homepage": "https://github.com/lammerRoma/iCal#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "jest": "^26.6.3"
+  }
+}
